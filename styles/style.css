@@ -5,6 +5,27 @@
 }
 
 
+/* Media Query For Small Device */
+
+@media screen and (max-width:575px) {
+
+    .border-full-legal-practice{
+        border: 1px solid rgb(241, 239, 239);
+        background-color: rgb(247, 244, 244);
+    }
+    .border-bg-legal-practice{
+        
+        background-color: rgb(248, 247, 247);
+    }
+    .border-bottom-bg-legal-practice{
+        
+        background-color: rgb(247, 244, 244);
+    }
+    
+    
+}
+
+
 
 
 
